@@ -1,0 +1,20 @@
+.orange{
+	background: orange;
+	height: 350px;
+	width: 350px;
+}
+.purple{
+	background: purple;
+	height: 180px;
+	width: 180px;
+	position: relative;
+	left:80px;
+	top:80px;
+
+}
+.yellow{
+	background: yellow;
+	height: 100px;
+	width: 100px;
+	position: absolute;
+}

@@ -1,0 +1,23 @@
+.orange{
+	background: blue;
+	height: 350px;
+	width: 350px;
+	position: relative;
+}
+.purple{
+	background: green;
+	height: 150px;
+	width: 150px;
+	position: absolute;
+	left:100px;
+	top:100px;
+
+}
+.yellow{
+	background: black;
+	height: 100px;
+	width: 100px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
